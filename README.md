@@ -1,8 +1,6 @@
 
 
 hello All
-My name is paras khambhaliya,
-
 
 # steps to follow
 open terminal
