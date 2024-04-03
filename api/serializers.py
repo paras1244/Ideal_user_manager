@@ -80,3 +80,5 @@ class IdealUserSerializer(serializers.ModelSerializer):
         
         a = 100 - ((sum(new) * 100) / 10)
         return a
+    
+# new serializer
